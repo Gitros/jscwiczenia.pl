@@ -10,7 +10,7 @@ const display = () => {
         opis.appendChild(p);
     }
     else{
-        p.textContent = liczba + "liczba jest ujemna lub 0"
+        p.textContent = liczba + " Liczba jest ujemna lub 0"
         opis.appendChild(p);
     }
 }
